@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\private\\nbc_gamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\x64\\nbc_project_7editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_7\\definitions.nbc_project_7.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\public\\nbc_gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_7\\uht\\nbc_gamemode.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\public\\nbc_pawn.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_7\\uht\\nbc_pawn.generated.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\public\\nbc_playercontroller.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\unrealeditor\\inc\\nbc_project_7\\uht\\nbc_playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

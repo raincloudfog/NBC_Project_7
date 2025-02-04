@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\nbc_project_7.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\x64\\nbc_project_7editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nbc_project_7\\definitions.nbc_project_7.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\nbc_project_7\\source\\nbc_project_7\\nbc_project_7.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

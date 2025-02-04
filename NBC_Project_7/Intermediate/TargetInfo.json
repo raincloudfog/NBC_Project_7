@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NBC_Project_7",
+			"Path": "..\\Source\\NBC_Project_7.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NBC_Project_7Editor",
+			"Path": "..\\Source\\NBC_Project_7Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

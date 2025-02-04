@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NBC_Project_7-0069.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\NBC_Project_7Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_ActorComponent_Human.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Drone.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_DroneController.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_GameMode.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Pawn.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_PlayerController.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Project_7.init.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Project_7.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_ActorComponent_Human.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Drone.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_DroneController.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_GameMode.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_Pawn.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\NBC_PlayerController.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\PerModuleInline.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\Default.rc2.res"
+/OUT:"C:\Users\qordl\Documents\Unreal Projects\NBC_Project_7\Intermediate\Build\Win64\x64\UnrealEditor\Development\NBC_Project_7\UnrealEditor-NBC_Project_7-0069.lib"

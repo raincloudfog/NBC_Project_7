@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NBC_Project_7.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBC_Project_7.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NBC_Project_7Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NBC_Project_7">
+      <UniqueIdentifier>{21482F95-9EAF-339B-B937-D8120C006604}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NBC_Project_7\NBC_Project_7.Build.cs">
+      <Filter>Source\NBC_Project_7</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NBC_Project_7\NBC_Project_7.cpp">
+      <Filter>Source\NBC_Project_7</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\NBC_Project_7.h">
+      <Filter>Source\NBC_Project_7</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBC_Project_7\Private">
+      <UniqueIdentifier>{EBB3C0F6-1837-3C7F-BD29-CEAA8DB196BF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_ActorComponent_Human.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_Drone.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_DroneController.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_GameMode.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_Pawn.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Private\NBC_PlayerController.cpp">
+      <Filter>Source\NBC_Project_7\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NBC_Project_7\Public">
+      <UniqueIdentifier>{B59C8C14-8F2F-3CD9-8BDA-52C094A27004}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_ActorComponent_Human.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_Drone.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_DroneController.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_GameMode.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_Pawn.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NBC_Project_7\Public\NBC_PlayerController.h">
+      <Filter>Source\NBC_Project_7\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
